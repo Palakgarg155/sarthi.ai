@@ -1,6 +1,6 @@
 streamlit
 PyPDF2
-groq==0.3.0
+groq
 SpeechRecognition
 gTTS
 pyaudio
