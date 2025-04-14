@@ -8,7 +8,7 @@ import os
 
 # Constants
 GROQ_API_KEY = "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"
-MODEL = "gemma2-9b-it"
+MODEL = "llama-3.3-70b-versatile"
 USER_CREDENTIALS = {"teacher#7242": "log123", "student#1513": "log123"}  # You can update or extend this dictionary
 
 # Page Configuration
