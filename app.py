@@ -2,6 +2,7 @@ import streamlit as st
 from PyPDF2 import PdfReader
 from groq import Groq
 import speech_recognition as sr
+from openai import OpenAI
 from gtts import gTTS
 import tempfile
 import os
